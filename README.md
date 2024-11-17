@@ -6,7 +6,7 @@ This projects aims to provide insight into a survey information or data collecte
 
 #### Data Source
 
-Starbuck Survey Data: The primary dataset for this analysis is in [Data Folder](Data), containing detailed information about the survey done by the company.
+Starbuck Survey Data: The primary dataset for this analysis is in [Data Folder](https://github.com/marcusasar/Starbucks_Survey_Excel/tree/main/Data%20%26%20Report), containing detailed information about the survey done by the company.
 
 # Tools Used
 
