@@ -16,4 +16,4 @@ Starbuck Survey Data: The primary dataset for this analysis is in [Data Folder](
 
 # Report
 
-Find the final visual report of the analysis [here](https://github.com/marcusasar/Starbucks_Survey_Excel/blob/main/Starbucks%20Visit%20Survey%20Report.md)
+Find the final visual report of the analysis [here](https://github.com/marcusasar/Starbucks_Survey_Excel/blob/1e5aa345514c3d3ef809e6e7e6250e90826320e7/Bar_Plot/Starbucks_visits_Report.png)
